@@ -29,7 +29,7 @@ github_username: Casinoe
 
 # Build settings
 #theme: minima
-remote_theme: abhinavs/moonwalk
+remote_theme: benbalter/retlab
 plugins:
   - jekyll-feed
 
